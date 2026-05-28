@@ -119,7 +119,7 @@ npm run build
 
 ## Deployment
 
-
+Deployed by Vercel
 
 ---
 
