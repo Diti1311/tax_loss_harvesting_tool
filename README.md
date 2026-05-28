@@ -125,6 +125,8 @@ npm run build
 
 ## Screenshots
 
+Screen Recording and screenshots are added in the folder /../screenshots/
+
 ---
 
 ## Assumptions
